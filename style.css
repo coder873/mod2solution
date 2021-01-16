@@ -49,18 +49,18 @@ body{
 }
 
 #title-one {
-  background-color: #9FE2BF;
+  background-color: #D59898;
 } 
 
 #title-two{
-  background-color: #DE3163;
+  background-color: #C14543;
 }
 
 #title-three{
-  background-color: #CCCCFF;
+  background-color: #E5D198;
 }
 
-/*------ Desktop ------*/
+/*Desktop view */
 @media (min-width: 992px){
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;  
@@ -105,7 +105,7 @@ body{
 }
 
 
-/*------ Tablet ------*/
+/*Tablet view*/
 @media (min-width: 768px) and (max-width: 991px){
   .col-lg-4 {
     width: 50%;
@@ -118,7 +118,7 @@ body{
 }
 
 
-/*------ Mobile ------*/
+/*Mobile view*/
 @media (max-width: 767px){
   .col-lg-4{
     width: 100%;
